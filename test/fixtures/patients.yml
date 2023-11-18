@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  full_name: MyText
+  date_birth: 2023-11-17
+  phone: 9.99
+  email: MyText
+
+two:
+  full_name: MyText
+  date_birth: 2023-11-17
+  phone: 9.99
+  email: MyText
